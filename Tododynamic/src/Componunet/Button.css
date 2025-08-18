@@ -1,0 +1,24 @@
+.bluee{
+  background-color: rgb(78, 70, 222);
+  color: rgb(0, 0, 0);
+  height: 25px;
+  width: 100px;
+  cursor: pointer;
+}
+
+.redd{
+  background-color: red;
+  color: rgb(0, 0, 0);
+  height: 25px;
+  width: 100px;
+  cursor: pointer;
+}
+
+
+.greenn{
+  background-color: rgb(12, 246, 16);
+  color: rgb(0, 0, 0);
+  height: 25px;
+  width: 100px;
+  cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.danger{
+  height:   35px;
+  background-color: red;
+   color:   white;
+}
+
+.succss{
+  height:   35px;
+  background-color: rgb(23, 180, 23);
+   color:   black;
+}
