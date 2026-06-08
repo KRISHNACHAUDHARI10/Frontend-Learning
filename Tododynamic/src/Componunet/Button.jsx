@@ -6,7 +6,7 @@ if (btnType === 'success'){
  </button>
  }   
 else if(btnType === 'Danger'){
-  return<button className="btn btn-danger" onClick={handler} >{btnText}
+  return<button className="bt  btn-danger" onClick={handler} >{btnText}
   </button>
   } 
 else{
